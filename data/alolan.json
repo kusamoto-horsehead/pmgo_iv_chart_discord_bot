@@ -1,0 +1,146 @@
+{
+  "rattata": {
+    "atk": 103.0,
+    "def": 60.0,
+    "hp": 70.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "raticate": {
+    "atk": 135.0,
+    "def": 159.0,
+    "hp":150.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "raichu": {
+    "atk": 201.0,
+    "def": 172.0,
+    "hp":120.0,
+    "wild": false,
+    "task": false,
+    "raid": true
+  },
+  "sandshrew": {
+    "atk": 126.0,
+    "def": 100.0,
+    "hp": 145.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "sandslash": {
+    "atk": 177.0,
+    "def": 221.0,
+    "hp": 150.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "vulpix": {
+  "atk": 96.0,
+  "def": 76.0,
+  "hp": 122.0,
+  "wild": true,
+  "task": false,
+  "raid": false
+},
+  "ninetales": {
+    "atk": 170.0,
+    "def": 207.0,
+    "hp": 146.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "diglett": {
+    "atk": 109.0,
+    "def": 20.0,
+    "hp": 88.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "dugtrio": {
+    "atk": 201.0,
+    "def": 148.0,
+    "hp": 70.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "meowth": {
+    "atk": 92.0,
+    "def": 80.0,
+    "hp": 81.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "persian": {
+    "atk": 158.0,
+    "def": 139.0,
+    "hp": 130.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "geodude": {
+    "atk": 132.0,
+    "def": 80.0,
+    "hp": 163.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "graveler": {
+    "atk": 164.0,
+    "def": 110.0,
+    "hp": 196.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "golem": {
+    "atk": 211.0,
+    "def": 229.0,
+    "hp": 160.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "grimer": {
+    "atk": 135.0,
+    "def": 160.0,
+    "hp": 90.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "muk": {
+    "atk": 190.0,
+    "def": 184.0,
+    "hp": 210.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "exeggutor": {
+    "atk": 230.0,
+    "def": 158.0,
+    "hp": 190.0,
+    "wild": true,
+    "task": false,
+    "raid": false
+  },
+  "marowak": {
+    "atk": 144.0,
+    "def": 200.0,
+    "hp": 120.0,
+    "wild": false,
+    "task": false,
+    "raid": true
+  }
+}
