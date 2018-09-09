@@ -59,7 +59,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
         }
         if (typeof(stats[name]) != "undefined") {
             var ivs = [];
-            var msg = "Possible CPs: \n```\n";
+            var msg = "Possible 100iv CPs: \n```\n";
             var atk = stats[name]["atk"];
             var def = stats[name]["def"];
             var hp = stats[name]["hp"];
@@ -81,7 +81,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                 }
                 for(var i=0;i<ivs.length;++i){
                     msg = msg + ivs[i] + " ";
-                    if(all===false&&i%5===4){
+                    if(i%5===4){
                         msg = msg + "\n";
                     }
                     if(i===29 && all===false){
