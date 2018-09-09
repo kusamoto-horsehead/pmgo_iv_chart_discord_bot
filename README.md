@@ -1,7 +1,13 @@
 # Cheatsheet
+### misc
 * Everything is case INsensitive (The bot will toLowerCase() them all)
-* `!nidoran f`
-* `!exeggutor alolan`
+* Raid / Research exclusive will only display possible encountered values 
+* For checking all 40 lvls `!moltres all`
+* For checking all possible values including half lvls `!feebas halflvl` 
+### special pokemons
+* For Nidoran `!nidoran m` `!nidoran f`
+* For Alolan form `!exeggutor alolan`
+
 
 # How To Install
 * Download and install [node.js](https://nodejs.org/en/)
