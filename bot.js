@@ -27,8 +27,27 @@ bot.on('message', function (user, userID, channelID, message, evt) {
         var args = message.toLowerCase().substring(1).split(' ');
         var name = args[0].toLowerCase();
         var stats = basestats;
-        if (typeof args[1] != "undefined" && args[1].toLowerCase() === "alolan") {
+        if (args.indexOf("alolan") !== -1) {
             stats = alolan;
+        }
+        if(name==="nidoran"){
+            if(args.indexOf("f") !== -1 && args.indexOf("m") === -1){
+                name="nidoran_f";
+            }else if(args.indexOf("f") === -1 && args.indexOf("m") !== -1){
+                name="nidoran_m";
+            }else{
+                bot.sendMessage({
+                    to: channelID,
+                    message: 'Try "!nidoran f" and "!nidoran m"'
+                });
+                return;
+            }
+        }
+        if(name==="nidoranf"){
+            name="nidoran_f";
+        }
+        if(name==="nidoranm"){
+            name="nidoran_m";
         }
         if (typeof(stats[name]) != "undefined") {
             var ivs = [];

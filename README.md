@@ -1,3 +1,8 @@
+# Cheatsheet
+* Everything is case INsensitive (The bot will toLowerCase() them all)
+* `!nidoran f`
+* `!exeggutor alolan`
+
 # How To Install
 * Download and install [node.js](https://nodejs.org/en/)
 * Download zip file, unzip to a folder
