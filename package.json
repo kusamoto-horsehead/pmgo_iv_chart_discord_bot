@@ -1,7 +1,7 @@
 {
   "name": "iv chart bot",
-  "version": "0.2",
-  "description": "Some weired test",
+  "version": "0.9",
+  "description": "Bot for pmgo data lookup",
   "main": "bot.js",
   "author": "rongeclosion@valor",
   "dependencies": {

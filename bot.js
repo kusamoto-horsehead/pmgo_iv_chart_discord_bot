@@ -1,4 +1,4 @@
-var DEBUG = false;
+var DEBUG = true;
 var command_prefix = DEBUG?'$':'!';
 var Discord = require('discord.io');
 var logger = require('winston');
@@ -35,7 +35,12 @@ bot.on('message', function (user, userID, channelID, message, evt) {
     // It will listen for messages that will start with `!`
     if (message.substring(0, 1) === command_prefix) {
         var args = message.toLowerCase().substring(1).split(' ');
-        var name = args[0].toLowerCase();
+        var name = args[0];
+        var mode = "chart";
+        if(name==="search"||name==="trash"){
+            mode = name;
+            name = args[1];
+        }
         var stats = basestats;
         if (args.indexOf("alolan") !== -1) {
             stats = alolan;
@@ -73,29 +78,64 @@ bot.on('message', function (user, userID, channelID, message, evt) {
             var all = false;
             var step = 1;
             var maxlvl = 35;
-            if(args.indexOf("all")!==-1){
+            if(mode==="chart" && args.indexOf("all")!==-1){
                 all = true;
                 maxlvl = 40;
             }
-            if(args.indexOf("halflvl")!==-1){
+            if(mode==="chart" && args.indexOf("halflvl")!==-1){
                 all = true;
                 maxlvl = 40;
                 step = 0.5;
             }
-            if(all || stats[name]["wild"]===true){
+            if(all ||  mode!=="chart" || stats[name]["wild"]===true){
                 for (var i = 1; i <= maxlvl; i+=step) {
                     ivs.push(cp(atk, def, hp, i));
                 }
-                for(var i=0;i<ivs.length;++i){
-                    msg = msg + ivs[i] + " ";
-                    if(i%5===4){
-                        msg = msg + "\n";
-                    }
-                    if(i===29 && all===false){
-                        msg = msg + "Weather boosted:\n";
-                    }
+                switch (mode) {
+                    case "chart":
+                        for(var i=0;i<ivs.length;++i){
+                            msg = msg + ivs[i] + " ";
+                            if(i%5===4){
+                                msg = msg + "\n";
+                            }
+                            if(i===29 && all===false){
+                                msg = msg + "Weather boosted:\n";
+                            }
+                        }
+                        msg = msg + "```\n";
+                        break;
+                    case "search":
+                        msg = "" + stats[name]["no"] + "&";
+                        for(var i=0;i<ivs.length;++i){
+                            if(ivs[i]==ivs[i+1]){
+                                continue;
+                            }
+                            msg = msg + "cp" + ivs[i];
+                            if(i!==ivs.length-1){
+                                msg = msg + ',';
+                            }
+                        }
+                        break;
+                    case "trash":
+                        msg = "" + stats[name]["no"] + "&";
+                        if(ivs[0]==11){
+                            msg = msg + "cp10,";
+                        }
+                        if(ivs[0]>11){
+                            msg = msg + "cp10-" + (ivs[0]-1) + ",";
+                        }
+                        for(var i=0;i<ivs.length-1;++i){
+                            if(ivs[i]==ivs[i+1]){
+                                // magikarp and feebas
+                                continue;
+                            }
+                            msg = msg + "cp" + (ivs[i]+1) + "-" + (ivs[i+1]-1);
+                            if(i!==ivs.length-2){
+                                msg = msg + ',';
+                            }
+                        }
+                        break;
                 }
-                msg = msg + "```\n";
             }else{
                 msg = msg + "*No possible wild encounter\n";
                 if(stats[name]["task"]===true){
@@ -106,6 +146,14 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     msg = msg + "Raid Weather Boosted: " + cp(atk, def, hp, 25) + "\n";
                 }
                 msg = msg + "```\n";
+            }
+            if(mode==="search"||mode==="trash"){
+                bot.sendMessage({
+                    to: channelID,
+                    message: "Note this only shows lvl 1-35 and whole lvls due to discord single message length limit.\n" +
+                        "Mostly for use during community days. \n" +
+                        "iOS trainers need to set text replacement since pasting into search bar is not possible."
+                });
             }
             bot.sendMessage({
                 to: channelID,
