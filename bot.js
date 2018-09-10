@@ -1,3 +1,5 @@
+var DEBUG = false;
+var command_prefix = DEBUG?'$':'!';
 var Discord = require('discord.io');
 var logger = require('winston');
 var auth = require('./auth.json');
@@ -30,7 +32,7 @@ function cp(a,d,s,lv){
 bot.on('message', function (user, userID, channelID, message, evt) {
     // Our bot needs to know if it will execute a command
     // It will listen for messages that will start with `!`
-    if (message.substring(0, 1) === '!') {
+    if (message.substring(0, 1) === command_prefix) {
         var args = message.toLowerCase().substring(1).split(' ');
         var name = args[0].toLowerCase();
         var stats = basestats;
