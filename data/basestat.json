@@ -5,7 +5,8 @@
     "hp": 118.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 1
   },
   "ivysaur": {
     "atk": 151.0,
@@ -13,7 +14,8 @@
     "hp": 151.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 2
   },
   "venusaur": {
     "atk": 198.0,
@@ -21,7 +23,8 @@
     "hp": 198.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 3
   },
   "charmander": {
     "atk": 116.0,
@@ -29,7 +32,8 @@
     "hp": 96.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 4
   },
   "charmeleon": {
     "atk": 158.0,
@@ -37,7 +41,8 @@
     "hp": 129.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 5
   },
   "charizard": {
     "atk": 223.0,
@@ -45,7 +50,8 @@
     "hp": 176.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 6
   },
   "squirtle": {
     "atk": 94.0,
@@ -53,7 +59,8 @@
     "hp": 122.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 7
   },
   "wartortle": {
     "atk": 126.0,
@@ -61,7 +68,8 @@
     "hp": 155.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 8
   },
   "blastoise": {
     "atk": 171.0,
@@ -69,7 +77,8 @@
     "hp": 210.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 9
   },
   "caterpie": {
     "atk": 55.0,
@@ -77,7 +86,8 @@
     "hp": 62.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 10
   },
   "metapod": {
     "atk": 45.0,
@@ -85,7 +95,8 @@
     "hp": 94.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 11
   },
   "butterfree": {
     "atk": 167.0,
@@ -93,7 +104,8 @@
     "hp": 151.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 12
   },
   "weedle": {
     "atk": 63.0,
@@ -101,7 +113,8 @@
     "hp": 55.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 13
   },
   "kakuna": {
     "atk": 46.0,
@@ -109,7 +122,8 @@
     "hp": 86.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 14
   },
   "beedrill": {
     "atk": 169.0,
@@ -117,7 +131,8 @@
     "hp": 150.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 15
   },
   "pidgey": {
     "atk": 85.0,
@@ -125,7 +140,8 @@
     "hp": 76.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 16
   },
   "pidgeotto": {
     "atk": 117.0,
@@ -133,7 +149,8 @@
     "hp": 108.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 17
   },
   "pidgeot": {
     "atk": 166.0,
@@ -141,7 +158,8 @@
     "hp": 157.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 18
   },
   "rattata": {
     "atk": 103.0,
@@ -149,7 +167,8 @@
     "hp": 70.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 19
   },
   "raticate": {
     "atk": 161.0,
@@ -157,7 +176,8 @@
     "hp": 144.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 20
   },
   "spearow": {
     "atk": 112.0,
@@ -165,7 +185,8 @@
     "hp": 61.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 21
   },
   "fearow": {
     "atk": 182.0,
@@ -173,7 +194,8 @@
     "hp": 135.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 22
   },
   "ekans": {
     "atk": 110.0,
@@ -181,7 +203,8 @@
     "hp": 102.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 23
   },
   "arbok": {
     "atk": 167.0,
@@ -189,7 +212,8 @@
     "hp": 158.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 24
   },
   "pikachu": {
     "atk": 112.0,
@@ -197,7 +221,8 @@
     "hp": 101.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 25
   },
   "raichu": {
     "atk": 193.0,
@@ -205,7 +230,8 @@
     "hp": 165.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 26
   },
   "sandshrew": {
     "atk": 126.0,
@@ -213,7 +239,8 @@
     "hp": 145.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 27
   },
   "sandslash": {
     "atk": 182.0,
@@ -221,7 +248,8 @@
     "hp": 202.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 28
   },
   "nidoran_f": {
     "atk": 86.0,
@@ -229,7 +257,8 @@
     "hp": 94.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 29
   },
   "nidorina": {
     "atk": 117.0,
@@ -237,7 +266,8 @@
     "hp": 126.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 30
   },
   "nidoqueen": {
     "atk": 180.0,
@@ -245,7 +275,8 @@
     "hp": 174.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 31
   },
   "nidoran_m": {
     "atk": 105.0,
@@ -253,7 +284,8 @@
     "hp": 76.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 32
   },
   "nidorino": {
     "atk": 137.0,
@@ -261,7 +293,8 @@
     "hp": 112.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 33
   },
   "nidoking": {
     "atk": 204.0,
@@ -269,7 +302,8 @@
     "hp": 157.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 34
   },
   "clefairy": {
     "atk": 107.0,
@@ -277,7 +311,8 @@
     "hp": 116.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 35
   },
   "clefable": {
     "atk": 178.0,
@@ -285,7 +320,8 @@
     "hp": 171.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 36
   },
   "vulpix": {
     "atk": 96.0,
@@ -293,7 +329,8 @@
     "hp": 122.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 37
   },
   "ninetales": {
     "atk": 169.0,
@@ -301,7 +338,8 @@
     "hp": 204.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 38
   },
   "jigglypuff": {
     "atk": 80.0,
@@ -309,7 +347,8 @@
     "hp": 44.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 39
   },
   "wigglytuff": {
     "atk": 156.0,
@@ -317,7 +356,8 @@
     "hp": 93.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 40
   },
   "zubat": {
     "atk": 83.0,
@@ -325,7 +365,8 @@
     "hp": 76.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 41
   },
   "golbat": {
     "atk": 161.0,
@@ -333,7 +374,8 @@
     "hp": 153.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 42
   },
   "oddish": {
     "atk": 131.0,
@@ -341,7 +383,8 @@
     "hp": 116.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 43
   },
   "gloom": {
     "atk": 153.0,
@@ -349,7 +392,8 @@
     "hp": 139.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 44
   },
   "vileplume": {
     "atk": 202.0,
@@ -357,7 +401,8 @@
     "hp": 170.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 45
   },
   "paras": {
     "atk": 121.0,
@@ -365,7 +410,8 @@
     "hp": 99.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 46
   },
   "parasect": {
     "atk": 165.0,
@@ -373,7 +419,8 @@
     "hp": 146.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 47
   },
   "venonat": {
     "atk": 100.0,
@@ -381,7 +428,8 @@
     "hp": 102.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 48
   },
   "venomoth": {
     "atk": 179.0,
@@ -389,7 +437,8 @@
     "hp": 150.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 49
   },
   "diglett": {
     "atk": 109.0,
@@ -397,7 +446,8 @@
     "hp": 88.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 50
   },
   "dugtrio": {
     "atk": 167.0,
@@ -405,7 +455,8 @@
     "hp": 147.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 51
   },
   "meowth": {
     "atk": 92.0,
@@ -413,7 +464,8 @@
     "hp": 81.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 52
   },
   "persian": {
     "atk": 150.0,
@@ -421,7 +473,8 @@
     "hp": 139.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 53
   },
   "psyduck": {
     "atk": 122.0,
@@ -429,7 +482,8 @@
     "hp": 96.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 54
   },
   "golduck": {
     "atk": 191.0,
@@ -437,7 +491,8 @@
     "hp": 163.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 55
   },
   "mankey": {
     "atk": 148.0,
@@ -445,7 +500,8 @@
     "hp": 87.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 56
   },
   "primeape": {
     "atk": 207.0,
@@ -453,7 +509,8 @@
     "hp": 144.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 57
   },
   "growlithe": {
     "atk": 136.0,
@@ -461,7 +518,8 @@
     "hp": 96.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 58
   },
   "arcanine": {
     "atk": 227.0,
@@ -469,7 +527,8 @@
     "hp": 166.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 59
   },
   "poliwag": {
     "atk": 101.0,
@@ -477,7 +536,8 @@
     "hp": 82.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 60
   },
   "poliwhirl": {
     "atk": 130.0,
@@ -485,7 +545,8 @@
     "hp": 130.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 61
   },
   "poliwrath": {
     "atk": 182.0,
@@ -493,7 +554,8 @@
     "hp": 187.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 62
   },
   "abra": {
     "atk": 195.0,
@@ -501,7 +563,8 @@
     "hp": 103.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 63
   },
   "kadabra": {
     "atk": 232.0,
@@ -509,7 +572,8 @@
     "hp": 138.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 64
   },
   "alakazam": {
     "atk": 271.0,
@@ -517,7 +581,8 @@
     "hp": 194.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 65
   },
   "machop": {
     "atk": 137.0,
@@ -525,7 +590,8 @@
     "hp": 88.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 66
   },
   "machoke": {
     "atk": 177.0,
@@ -533,7 +599,8 @@
     "hp": 130.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 67
   },
   "machamp": {
     "atk": 234.0,
@@ -541,7 +608,8 @@
     "hp": 162.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 68
   },
   "bellsprout": {
     "atk": 139.0,
@@ -549,7 +617,8 @@
     "hp": 64.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 69
   },
   "weepinbell": {
     "atk": 172.0,
@@ -557,7 +626,8 @@
     "hp": 95.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 70
   },
   "victreebel": {
     "atk": 207.0,
@@ -565,7 +635,8 @@
     "hp": 138.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 71
   },
   "tentacool": {
     "atk": 97.0,
@@ -573,7 +644,8 @@
     "hp": 182.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 72
   },
   "tentacruel": {
     "atk": 166.0,
@@ -581,7 +653,8 @@
     "hp": 237.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 73
   },
   "geodude": {
     "atk": 132.0,
@@ -589,7 +662,8 @@
     "hp": 163.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 74
   },
   "graveler": {
     "atk": 164.0,
@@ -597,7 +671,8 @@
     "hp": 196.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 75
   },
   "golem": {
     "atk": 211.0,
@@ -605,7 +680,8 @@
     "hp": 229.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 76
   },
   "ponyta": {
     "atk": 170.0,
@@ -613,7 +689,8 @@
     "hp": 132.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 77
   },
   "rapidash": {
     "atk": 207.0,
@@ -621,7 +698,8 @@
     "hp": 167.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 78
   },
   "slowpoke": {
     "atk": 109.0,
@@ -629,7 +707,8 @@
     "hp": 109.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 79
   },
   "slowbro": {
     "atk": 177.0,
@@ -637,7 +716,8 @@
     "hp": 194.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 80
   },
   "magnemite": {
     "atk": 165.0,
@@ -645,7 +725,8 @@
     "hp": 128.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 81
   },
   "magneton": {
     "atk": 223.0,
@@ -653,7 +734,8 @@
     "hp": 182.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 82
   },
   "farfetch'd": {
     "atk": 124.0,
@@ -661,7 +743,8 @@
     "hp": 118.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 83
   },
   "doduo": {
     "atk": 158.0,
@@ -669,7 +752,8 @@
     "hp": 88.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 84
   },
   "dodrio": {
     "atk": 218.0,
@@ -677,7 +761,8 @@
     "hp": 145.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 85
   },
   "seel": {
     "atk": 85.0,
@@ -685,7 +770,8 @@
     "hp": 128.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 86
   },
   "dewgong": {
     "atk": 139.0,
@@ -693,7 +779,8 @@
     "hp": 184.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 87
   },
   "grimer": {
     "atk": 135.0,
@@ -701,7 +788,8 @@
     "hp": 90.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 88
   },
   "muk": {
     "atk": 190.0,
@@ -709,7 +797,8 @@
     "hp": 184.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 89
   },
   "shellder": {
     "atk": 116.0,
@@ -717,7 +806,8 @@
     "hp": 168.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 90
   },
   "cloyster": {
     "atk": 186.0,
@@ -725,7 +815,8 @@
     "hp": 323.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 91
   },
   "gastly": {
     "atk": 186.0,
@@ -733,7 +824,8 @@
     "hp": 70.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 92
   },
   "haunter": {
     "atk": 223.0,
@@ -741,7 +833,8 @@
     "hp": 112.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 93
   },
   "gengar": {
     "atk": 261.0,
@@ -749,7 +842,8 @@
     "hp": 156.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 94
   },
   "onix": {
     "atk": 85.0,
@@ -757,7 +851,8 @@
     "hp": 288.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 95
   },
   "drowzee": {
     "atk": 89.0,
@@ -765,7 +860,8 @@
     "hp": 158.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 96
   },
   "hypno": {
     "atk": 144.0,
@@ -773,7 +869,8 @@
     "hp": 215.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 97
   },
   "krabby": {
     "atk": 181.0,
@@ -781,7 +878,8 @@
     "hp": 156.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 98
   },
   "kingler": {
     "atk": 240.0,
@@ -789,7 +887,8 @@
     "hp": 214.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 99
   },
   "voltorb": {
     "atk": 109.0,
@@ -797,7 +896,8 @@
     "hp": 114.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 100
   },
   "electrode": {
     "atk": 173.0,
@@ -805,7 +905,8 @@
     "hp": 179.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 101
   },
   "exeggcute": {
     "atk": 107.0,
@@ -813,7 +914,8 @@
     "hp": 140.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 102
   },
   "exeggutor": {
     "atk": 233.0,
@@ -821,7 +923,8 @@
     "hp": 158.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 103
   },
   "cubone": {
     "atk": 90.0,
@@ -829,7 +932,8 @@
     "hp": 165.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 104
   },
   "marowak": {
     "atk": 144.0,
@@ -837,7 +941,8 @@
     "hp": 200.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 105
   },
   "hitmonlee": {
     "atk": 224.0,
@@ -845,7 +950,8 @@
     "hp": 211.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 106
   },
   "hitmonchan": {
     "atk": 193.0,
@@ -853,7 +959,8 @@
     "hp": 212.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 107
   },
   "lickitung": {
     "atk": 108.0,
@@ -861,7 +968,8 @@
     "hp": 137.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 108
   },
   "koffing": {
     "atk": 119.0,
@@ -869,7 +977,8 @@
     "hp": 164.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 109
   },
   "weezing": {
     "atk": 174.0,
@@ -877,7 +986,8 @@
     "hp": 221.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 110
   },
   "rhyhorn": {
     "atk": 140.0,
@@ -885,7 +995,8 @@
     "hp": 157.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 111
   },
   "rhydon": {
     "atk": 222.0,
@@ -893,7 +1004,8 @@
     "hp": 206.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 112
   },
   "chansey": {
     "atk": 60.0,
@@ -901,7 +1013,8 @@
     "hp": 176.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 113
   },
   "tangela": {
     "atk": 183.0,
@@ -909,7 +1022,8 @@
     "hp": 205.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 114
   },
   "kangaskhan": {
     "atk": 181.0,
@@ -917,7 +1031,8 @@
     "hp": 165.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 115
   },
   "horsea": {
     "atk": 129.0,
@@ -925,7 +1040,8 @@
     "hp": 125.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 116
   },
   "seadra": {
     "atk": 187.0,
@@ -933,7 +1049,8 @@
     "hp": 182.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 117
   },
   "goldeen": {
     "atk": 123.0,
@@ -941,7 +1058,8 @@
     "hp": 115.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 118
   },
   "seaking": {
     "atk": 175.0,
@@ -949,7 +1067,8 @@
     "hp": 154.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 119
   },
   "staryu": {
     "atk": 137.0,
@@ -957,7 +1076,8 @@
     "hp": 112.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 120
   },
   "starmie": {
     "atk": 210.0,
@@ -965,7 +1085,8 @@
     "hp": 184.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 121
   },
   "mr. mime": {
     "atk": 192.0,
@@ -973,7 +1094,8 @@
     "hp": 233.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 122
   },
   "scyther": {
     "atk": 218.0,
@@ -981,7 +1103,8 @@
     "hp": 170.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 123
   },
   "jynx": {
     "atk": 223.0,
@@ -989,7 +1112,8 @@
     "hp": 182.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 124
   },
   "electabuzz": {
     "atk": 198.0,
@@ -997,7 +1121,8 @@
     "hp": 173.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 125
   },
   "magmar": {
     "atk": 206.0,
@@ -1005,7 +1130,8 @@
     "hp": 169.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 126
   },
   "pinsir": {
     "atk": 238.0,
@@ -1013,7 +1139,8 @@
     "hp": 197.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 127
   },
   "tauros": {
     "atk": 198.0,
@@ -1021,7 +1148,8 @@
     "hp": 197.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 128
   },
   "magikarp": {
     "atk": 29.0,
@@ -1029,7 +1157,8 @@
     "hp": 102.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 129
   },
   "gyarados": {
     "atk": 237.0,
@@ -1037,7 +1166,8 @@
     "hp": 197.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 130
   },
   "lapras": {
     "atk": 165.0,
@@ -1045,7 +1175,8 @@
     "hp": 180.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 131
   },
   "ditto": {
     "atk": 91.0,
@@ -1053,7 +1184,8 @@
     "hp": 91.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 132
   },
   "eevee": {
     "atk": 104.0,
@@ -1061,7 +1193,8 @@
     "hp": 121.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 133
   },
   "vaporeon": {
     "atk": 205.0,
@@ -1069,7 +1202,8 @@
     "hp": 177.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 134
   },
   "jolteon": {
     "atk": 232.0,
@@ -1077,7 +1211,8 @@
     "hp": 201.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 135
   },
   "flareon": {
     "atk": 246.0,
@@ -1085,7 +1220,8 @@
     "hp": 204.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 136
   },
   "porygon": {
     "atk": 153.0,
@@ -1093,7 +1229,8 @@
     "hp": 139.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 137
   },
   "omanyte": {
     "atk": 155.0,
@@ -1101,7 +1238,8 @@
     "hp": 174.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 138
   },
   "omastar": {
     "atk": 207.0,
@@ -1109,7 +1247,8 @@
     "hp": 227.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 139
   },
   "kabuto": {
     "atk": 148.0,
@@ -1117,7 +1256,8 @@
     "hp": 162.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 140
   },
   "kabutops": {
     "atk": 220.0,
@@ -1125,7 +1265,8 @@
     "hp": 203.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 141
   },
   "aerodactyl": {
     "atk": 221.0,
@@ -1133,7 +1274,8 @@
     "hp": 164.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 142
   },
   "snorlax": {
     "atk": 190.0,
@@ -1141,7 +1283,8 @@
     "hp": 190.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 143
   },
   "articuno": {
     "atk": 192.0,
@@ -1149,7 +1292,8 @@
     "hp": 249.0,
     "wild": false,
     "task": true,
-    "raid": true
+    "raid": true,
+    "no": 144
   },
   "zapdos": {
     "atk": 253.0,
@@ -1157,7 +1301,8 @@
     "hp": 188.0,
     "wild": false,
     "task": true,
-    "raid": true
+    "raid": true,
+    "no": 145
   },
   "moltres": {
     "atk": 251.0,
@@ -1165,7 +1310,8 @@
     "hp": 184.0,
     "wild": false,
     "task": true,
-    "raid": true
+    "raid": true,
+    "no": 146
   },
   "dratini": {
     "atk": 119.0,
@@ -1173,7 +1319,8 @@
     "hp": 94.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 147
   },
   "dragonair": {
     "atk": 163.0,
@@ -1181,7 +1328,8 @@
     "hp": 138.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 148
   },
   "dragonite": {
     "atk": 263.0,
@@ -1189,7 +1337,8 @@
     "hp": 201.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 149
   },
   "mewtwo": {
     "atk": 330.0,
@@ -1197,7 +1346,8 @@
     "hp": 200.0,
     "wild": false,
     "task": false,
-    "raid": true
+    "raid": true,
+    "no": 150
   },
   "mew": {
     "atk": 210.0,
@@ -1205,7 +1355,8 @@
     "hp": 210.0,
     "wild": false,
     "task": true,
-    "raid": false
+    "raid": false,
+    "no": 151
   },
   "chikorita": {
     "atk": 92.0,
@@ -1213,7 +1364,8 @@
     "hp": 122.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 152
   },
   "bayleef": {
     "atk": 122.0,
@@ -1221,7 +1373,8 @@
     "hp": 155.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 153
   },
   "meganium": {
     "atk": 168.0,
@@ -1229,7 +1382,8 @@
     "hp": 202.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 154
   },
   "cyndaquil": {
     "atk": 116.0,
@@ -1237,7 +1391,8 @@
     "hp": 96.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 155
   },
   "quilava": {
     "atk": 158.0,
@@ -1245,7 +1400,8 @@
     "hp": 129.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 156
   },
   "typhlosion": {
     "atk": 223.0,
@@ -1253,7 +1409,8 @@
     "hp": 176.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 157
   },
   "totodile": {
     "atk": 117.0,
@@ -1261,7 +1418,8 @@
     "hp": 116.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 158
   },
   "croconaw": {
     "atk": 150.0,
@@ -1269,7 +1427,8 @@
     "hp": 151.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 159
   },
   "feraligatr": {
     "atk": 205.0,
@@ -1277,7 +1436,8 @@
     "hp": 197.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 160
   },
   "sentret": {
     "atk": 79.0,
@@ -1285,7 +1445,8 @@
     "hp": 77.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 161
   },
   "furret": {
     "atk": 148.0,
@@ -1293,7 +1454,8 @@
     "hp": 130.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 162
   },
   "hoothoot": {
     "atk": 67.0,
@@ -1301,7 +1463,8 @@
     "hp": 101.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 163
   },
   "noctowl": {
     "atk": 145.0,
@@ -1309,7 +1472,8 @@
     "hp": 179.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 164
   },
   "ledyba": {
     "atk": 72.0,
@@ -1317,7 +1481,8 @@
     "hp": 142.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 165
   },
   "ledian": {
     "atk": 107.0,
@@ -1325,7 +1490,8 @@
     "hp": 209.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 166
   },
   "spinarak": {
     "atk": 105.0,
@@ -1333,7 +1499,8 @@
     "hp": 73.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 167
   },
   "ariados": {
     "atk": 161.0,
@@ -1341,7 +1508,8 @@
     "hp": 128.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 168
   },
   "crobat": {
     "atk": 194.0,
@@ -1349,7 +1517,8 @@
     "hp": 178.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 169
   },
   "chinchou": {
     "atk": 106.0,
@@ -1357,7 +1526,8 @@
     "hp": 106.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 170
   },
   "lanturn": {
     "atk": 146.0,
@@ -1365,7 +1535,8 @@
     "hp": 146.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 171
   },
   "pichu": {
     "atk": 77.0,
@@ -1373,7 +1544,8 @@
     "hp": 63.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 172
   },
   "cleffa": {
     "atk": 75.0,
@@ -1381,7 +1553,8 @@
     "hp": 91.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 173
   },
   "igglybuff": {
     "atk": 69.0,
@@ -1389,7 +1562,8 @@
     "hp": 34.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 174
   },
   "togepi": {
     "atk": 67.0,
@@ -1397,7 +1571,8 @@
     "hp": 116.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 175
   },
   "togetic": {
     "atk": 139.0,
@@ -1405,7 +1580,8 @@
     "hp": 191.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 176
   },
   "natu": {
     "atk": 134.0,
@@ -1413,7 +1589,8 @@
     "hp": 89.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 177
   },
   "xatu": {
     "atk": 192.0,
@@ -1421,7 +1598,8 @@
     "hp": 146.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 178
   },
   "mareep": {
     "atk": 114.0,
@@ -1429,7 +1607,8 @@
     "hp": 82.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 179
   },
   "flaaffy": {
     "atk": 145.0,
@@ -1437,7 +1616,8 @@
     "hp": 112.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 180
   },
   "ampharos": {
     "atk": 211.0,
@@ -1445,7 +1625,8 @@
     "hp": 172.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 181
   },
   "bellossom": {
     "atk": 169.0,
@@ -1453,7 +1634,8 @@
     "hp": 189.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 182
   },
   "marill": {
     "atk": 37.0,
@@ -1461,7 +1643,8 @@
     "hp": 93.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 183
   },
   "azumarill": {
     "atk": 112.0,
@@ -1469,7 +1652,8 @@
     "hp": 152.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 184
   },
   "sudowoodo": {
     "atk": 167.0,
@@ -1477,7 +1661,8 @@
     "hp": 198.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 185
   },
   "politoed": {
     "atk": 174.0,
@@ -1485,7 +1670,8 @@
     "hp": 192.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 186
   },
   "hoppip": {
     "atk": 67.0,
@@ -1493,7 +1679,8 @@
     "hp": 101.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 187
   },
   "skiploom": {
     "atk": 91.0,
@@ -1501,7 +1688,8 @@
     "hp": 127.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 188
   },
   "jumpluff": {
     "atk": 118.0,
@@ -1509,7 +1697,8 @@
     "hp": 197.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 189
   },
   "aipom": {
     "atk": 136.0,
@@ -1517,7 +1706,8 @@
     "hp": 112.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 190
   },
   "sunkern": {
     "atk": 55.0,
@@ -1525,7 +1715,8 @@
     "hp": 55.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 191
   },
   "sunflora": {
     "atk": 185.0,
@@ -1533,7 +1724,8 @@
     "hp": 148.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 192
   },
   "yanma": {
     "atk": 154.0,
@@ -1541,7 +1733,8 @@
     "hp": 94.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 193
   },
   "wooper": {
     "atk": 75.0,
@@ -1549,7 +1742,8 @@
     "hp": 75.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 194
   },
   "quagsire": {
     "atk": 152.0,
@@ -1557,7 +1751,8 @@
     "hp": 152.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 195
   },
   "espeon": {
     "atk": 261.0,
@@ -1565,7 +1760,8 @@
     "hp": 194.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 196
   },
   "umbreon": {
     "atk": 126.0,
@@ -1573,7 +1769,8 @@
     "hp": 250.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 197
   },
   "murkrow": {
     "atk": 175.0,
@@ -1581,7 +1778,8 @@
     "hp": 87.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 198
   },
   "slowking": {
     "atk": 177.0,
@@ -1589,7 +1787,8 @@
     "hp": 194.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 199
   },
   "misdreavus": {
     "atk": 167.0,
@@ -1597,7 +1796,8 @@
     "hp": 167.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 200
   },
   "unown": {
     "atk": 136.0,
@@ -1605,7 +1805,8 @@
     "hp": 91.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 201
   },
   "wobbuffet": {
     "atk": 60.0,
@@ -1613,7 +1814,8 @@
     "hp": 106.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 202
   },
   "girafarig": {
     "atk": 182.0,
@@ -1621,7 +1823,8 @@
     "hp": 133.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 203
   },
   "pineco": {
     "atk": 108.0,
@@ -1629,7 +1832,8 @@
     "hp": 146.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 204
   },
   "forretress": {
     "atk": 161.0,
@@ -1637,7 +1841,8 @@
     "hp": 242.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 205
   },
   "dunsparce": {
     "atk": 131.0,
@@ -1645,7 +1850,8 @@
     "hp": 131.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 206
   },
   "gligar": {
     "atk": 143.0,
@@ -1653,7 +1859,8 @@
     "hp": 204.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 207
   },
   "steelix": {
     "atk": 148.0,
@@ -1661,7 +1868,8 @@
     "hp": 333.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 208
   },
   "snubbull": {
     "atk": 137.0,
@@ -1669,7 +1877,8 @@
     "hp": 89.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 209
   },
   "granbull": {
     "atk": 212.0,
@@ -1677,7 +1886,8 @@
     "hp": 137.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 210
   },
   "qwilfish": {
     "atk": 184.0,
@@ -1685,7 +1895,8 @@
     "hp": 148.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 211
   },
   "scizor": {
     "atk": 236.0,
@@ -1693,7 +1904,8 @@
     "hp": 191.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 212
   },
   "shuckle": {
     "atk": 17.0,
@@ -1701,7 +1913,8 @@
     "hp": 396.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 213
   },
   "heracross": {
     "atk": 234.0,
@@ -1709,7 +1922,8 @@
     "hp": 189.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 214
   },
   "sneasel": {
     "atk": 189.0,
@@ -1717,7 +1931,8 @@
     "hp": 157.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 215
   },
   "teddiursa": {
     "atk": 142.0,
@@ -1725,7 +1940,8 @@
     "hp": 93.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 216
   },
   "ursaring": {
     "atk": 236.0,
@@ -1733,7 +1949,8 @@
     "hp": 144.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 217
   },
   "slugma": {
     "atk": 118.0,
@@ -1741,7 +1958,8 @@
     "hp": 71.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 218
   },
   "magcargo": {
     "atk": 139.0,
@@ -1749,7 +1967,8 @@
     "hp": 209.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 219
   },
   "swinub": {
     "atk": 90.0,
@@ -1757,7 +1976,8 @@
     "hp": 74.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 220
   },
   "piloswine": {
     "atk": 181.0,
@@ -1765,7 +1985,8 @@
     "hp": 147.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 221
   },
   "corsola": {
     "atk": 118.0,
@@ -1773,7 +1994,8 @@
     "hp": 156.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 222
   },
   "remoraid": {
     "atk": 127.0,
@@ -1781,7 +2003,8 @@
     "hp": 69.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 223
   },
   "octillery": {
     "atk": 197.0,
@@ -1789,7 +2012,8 @@
     "hp": 141.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 224
   },
   "delibird": {
     "atk": 128.0,
@@ -1797,7 +2021,8 @@
     "hp": 90.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 225
   },
   "mantine": {
     "atk": 148.0,
@@ -1805,7 +2030,8 @@
     "hp": 260.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 226
   },
   "skarmory": {
     "atk": 148.0,
@@ -1813,7 +2039,8 @@
     "hp": 260.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 227
   },
   "houndour": {
     "atk": 152.0,
@@ -1821,7 +2048,8 @@
     "hp": 93.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 228
   },
   "houndoom": {
     "atk": 224.0,
@@ -1829,7 +2057,8 @@
     "hp": 159.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 229
   },
   "kingdra": {
     "atk": 194.0,
@@ -1837,7 +2066,8 @@
     "hp": 194.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 230
   },
   "phanpy": {
     "atk": 107.0,
@@ -1845,7 +2075,8 @@
     "hp": 107.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 231
   },
   "donphan": {
     "atk": 214.0,
@@ -1853,7 +2084,8 @@
     "hp": 214.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 232
   },
   "porygon2": {
     "atk": 198.0,
@@ -1861,7 +2093,8 @@
     "hp": 183.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 233
   },
   "stantler": {
     "atk": 192.0,
@@ -1869,7 +2102,8 @@
     "hp": 132.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 234
   },
   "smeargle": {
     "atk": 40.0,
@@ -1877,7 +2111,8 @@
     "hp": 88.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 235
   },
   "tyrogue": {
     "atk": 64.0,
@@ -1885,7 +2120,8 @@
     "hp": 64.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 236
   },
   "hitmontop": {
     "atk": 173.0,
@@ -1893,7 +2129,8 @@
     "hp": 214.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 237
   },
   "smoochum": {
     "atk": 153.0,
@@ -1901,7 +2138,8 @@
     "hp": 116.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 238
   },
   "elekid": {
     "atk": 135.0,
@@ -1909,7 +2147,8 @@
     "hp": 110.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 239
   },
   "magby": {
     "atk": 151.0,
@@ -1917,7 +2156,8 @@
     "hp": 108.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 240
   },
   "miltank": {
     "atk": 157.0,
@@ -1925,7 +2165,8 @@
     "hp": 211.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 241
   },
   "blissey": {
     "atk": 129.0,
@@ -1933,7 +2174,8 @@
     "hp": 229.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 242
   },
   "raikou": {
     "atk": 241.0,
@@ -1941,7 +2183,8 @@
     "hp": 210.0,
     "wild": false,
     "task": true,
-    "raid": true
+    "raid": true,
+    "no": 243
   },
   "entei": {
     "atk": 235.0,
@@ -1949,7 +2192,8 @@
     "hp": 176.0,
     "wild": false,
     "task": true,
-    "raid": true
+    "raid": true,
+    "no": 244
   },
   "suicune": {
     "atk": 180.0,
@@ -1957,7 +2201,8 @@
     "hp": 235.0,
     "wild": false,
     "task": true,
-    "raid": true
+    "raid": true,
+    "no": 245
   },
   "larvitar": {
     "atk": 115.0,
@@ -1965,7 +2210,8 @@
     "hp": 93.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 246
   },
   "pupitar": {
     "atk": 155.0,
@@ -1973,7 +2219,8 @@
     "hp": 133.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 247
   },
   "tyranitar": {
     "atk": 251.0,
@@ -1981,7 +2228,8 @@
     "hp": 212.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 248
   },
   "lugia": {
     "atk": 193.0,
@@ -1989,7 +2237,8 @@
     "hp": 323.0,
     "wild": false,
     "task": false,
-    "raid": true
+    "raid": true,
+    "no": 249
   },
   "ho-oh": {
     "atk": 263.0,
@@ -1997,7 +2246,8 @@
     "hp": 301.0,
     "wild": false,
     "task": false,
-    "raid": true
+    "raid": true,
+    "no": 250
   },
   "celebi": {
     "atk": 210.0,
@@ -2005,7 +2255,8 @@
     "hp": 210.0,
     "wild": false,
     "task": true,
-    "raid": false
+    "raid": false,
+    "no": 251
   },
   "treecko": {
     "atk": 124.0,
@@ -2013,7 +2264,8 @@
     "hp": 104.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 252
   },
   "grovyle": {
     "atk": 172.0,
@@ -2021,7 +2273,8 @@
     "hp": 130.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 253
   },
   "sceptile": {
     "atk": 223.0,
@@ -2029,7 +2282,8 @@
     "hp": 180.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 254
   },
   "torchic": {
     "atk": 130.0,
@@ -2037,7 +2291,8 @@
     "hp": 92.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 255
   },
   "combusken": {
     "atk": 163.0,
@@ -2045,7 +2300,8 @@
     "hp": 115.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 256
   },
   "blaziken": {
     "atk": 240.0,
@@ -2053,7 +2309,8 @@
     "hp": 141.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 257
   },
   "mudkip": {
     "atk": 126.0,
@@ -2061,7 +2318,8 @@
     "hp": 93.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 258
   },
   "marshtomp": {
     "atk": 156.0,
@@ -2069,7 +2327,8 @@
     "hp": 133.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 259
   },
   "swampert": {
     "atk": 208.0,
@@ -2077,7 +2336,8 @@
     "hp": 175.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 260
   },
   "poochyena": {
     "atk": 96.0,
@@ -2085,7 +2345,8 @@
     "hp": 63.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 261
   },
   "mightyena": {
     "atk": 171.0,
@@ -2093,7 +2354,8 @@
     "hp": 137.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 262
   },
   "zigzagoon": {
     "atk": 58.0,
@@ -2101,7 +2363,8 @@
     "hp": 80.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 263
   },
   "linoone": {
     "atk": 142.0,
@@ -2109,7 +2372,8 @@
     "hp": 128.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 264
   },
   "wurmple": {
     "atk": 75.0,
@@ -2117,7 +2381,8 @@
     "hp": 61.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 265
   },
   "silcoon": {
     "atk": 60.0,
@@ -2125,7 +2390,8 @@
     "hp": 91.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 266
   },
   "beautifly": {
     "atk": 189.0,
@@ -2133,7 +2399,8 @@
     "hp": 98.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 267
   },
   "cascoon": {
     "atk": 60.0,
@@ -2141,7 +2408,8 @@
     "hp": 91.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 268
   },
   "dustox": {
     "atk": 98.0,
@@ -2149,7 +2417,8 @@
     "hp": 172.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 269
   },
   "lotad": {
     "atk": 71.0,
@@ -2157,7 +2426,8 @@
     "hp": 86.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 270
   },
   "lombre": {
     "atk": 112.0,
@@ -2165,7 +2435,8 @@
     "hp": 128.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 271
   },
   "ludicolo": {
     "atk": 173.0,
@@ -2173,7 +2444,8 @@
     "hp": 191.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 272
   },
   "seedot": {
     "atk": 71.0,
@@ -2181,7 +2453,8 @@
     "hp": 86.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 273
   },
   "nuzleaf": {
     "atk": 134.0,
@@ -2189,7 +2462,8 @@
     "hp": 78.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 274
   },
   "shiftry": {
     "atk": 200.0,
@@ -2197,7 +2471,8 @@
     "hp": 121.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 275
   },
   "taillow": {
     "atk": 106.0,
@@ -2205,7 +2480,8 @@
     "hp": 61.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 276
   },
   "swellow": {
     "atk": 185.0,
@@ -2213,7 +2489,8 @@
     "hp": 130.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 277
   },
   "wingull": {
     "atk": 106.0,
@@ -2221,7 +2498,8 @@
     "hp": 61.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 278
   },
   "pelipper": {
     "atk": 175.0,
@@ -2229,7 +2507,8 @@
     "hp": 189.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 279
   },
   "ralts": {
     "atk": 79.0,
@@ -2237,7 +2516,8 @@
     "hp": 63.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 280
   },
   "kirlia": {
     "atk": 117.0,
@@ -2245,7 +2525,8 @@
     "hp": 100.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 281
   },
   "gardevoir": {
     "atk": 237.0,
@@ -2253,7 +2534,8 @@
     "hp": 220.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 282
   },
   "surskit": {
     "atk": 93.0,
@@ -2261,7 +2543,8 @@
     "hp": 97.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 283
   },
   "masquerain": {
     "atk": 192.0,
@@ -2269,7 +2552,8 @@
     "hp": 161.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 284
   },
   "shroomish": {
     "atk": 74.0,
@@ -2277,7 +2561,8 @@
     "hp": 110.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 285
   },
   "breloom": {
     "atk": 241.0,
@@ -2285,7 +2570,8 @@
     "hp": 153.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 286
   },
   "slakoth": {
     "atk": 104.0,
@@ -2293,7 +2579,8 @@
     "hp": 104.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 287
   },
   "vigoroth": {
     "atk": 159.0,
@@ -2301,7 +2588,8 @@
     "hp": 159.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 288
   },
   "slaking": {
     "atk": 290.0,
@@ -2309,7 +2597,8 @@
     "hp": 183.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 289
   },
   "nincada": {
     "atk": 80.0,
@@ -2317,7 +2606,8 @@
     "hp": 153.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 290
   },
   "ninjask": {
     "atk": 199.0,
@@ -2325,7 +2615,8 @@
     "hp": 116.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 291
   },
   "shedinja": {
     "atk": 153.0,
@@ -2333,7 +2624,8 @@
     "hp": 80.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 292
   },
   "whismur": {
     "atk": 92.0,
@@ -2341,7 +2633,8 @@
     "hp": 42.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 293
   },
   "loudred": {
     "atk": 134.0,
@@ -2349,7 +2642,8 @@
     "hp": 81.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 294
   },
   "exploud": {
     "atk": 179.0,
@@ -2357,7 +2651,8 @@
     "hp": 142.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 295
   },
   "makuhita": {
     "atk": 99.0,
@@ -2365,7 +2660,8 @@
     "hp": 54.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 296
   },
   "hariyama": {
     "atk": 209.0,
@@ -2373,7 +2669,8 @@
     "hp": 114.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 297
   },
   "azurill": {
     "atk": 36.0,
@@ -2381,7 +2678,8 @@
     "hp": 71.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 298
   },
   "nosepass": {
     "atk": 82.0,
@@ -2389,7 +2687,8 @@
     "hp": 236.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 299
   },
   "skitty": {
     "atk": 84.0,
@@ -2397,7 +2696,8 @@
     "hp": 84.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 300
   },
   "delcatty": {
     "atk": 132.0,
@@ -2405,7 +2705,8 @@
     "hp": 132.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 301
   },
   "sableye": {
     "atk": 141.0,
@@ -2413,7 +2714,8 @@
     "hp": 141.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 302
   },
   "mawile": {
     "atk": 155.0,
@@ -2421,7 +2723,8 @@
     "hp": 155.0,
     "wild": false,
     "task": false,
-    "raid": true
+    "raid": true,
+    "no": 303
   },
   "aron": {
     "atk": 121.0,
@@ -2429,7 +2732,8 @@
     "hp": 168.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 304
   },
   "lairon": {
     "atk": 158.0,
@@ -2437,7 +2741,8 @@
     "hp": 240.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 305
   },
   "aggron": {
     "atk": 198.0,
@@ -2445,7 +2750,8 @@
     "hp": 314.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 306
   },
   "meditite": {
     "atk": 78.0,
@@ -2453,7 +2759,8 @@
     "hp": 107.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 307
   },
   "medicham": {
     "atk": 121.0,
@@ -2461,7 +2768,8 @@
     "hp": 152.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 308
   },
   "electrike": {
     "atk": 123.0,
@@ -2469,7 +2777,8 @@
     "hp": 78.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 309
   },
   "manectric": {
     "atk": 215.0,
@@ -2477,7 +2786,8 @@
     "hp": 127.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 310
   },
   "plusle": {
     "atk": 167.0,
@@ -2485,7 +2795,8 @@
     "hp": 147.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 311
   },
   "minun": {
     "atk": 147.0,
@@ -2493,7 +2804,8 @@
     "hp": 167.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 312
   },
   "volbeat": {
     "atk": 143.0,
@@ -2501,7 +2813,8 @@
     "hp": 171.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 313
   },
   "illumise": {
     "atk": 143.0,
@@ -2509,7 +2822,8 @@
     "hp": 171.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 314
   },
   "roselia": {
     "atk": 186.0,
@@ -2517,7 +2831,8 @@
     "hp": 148.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 315
   },
   "gulpin": {
     "atk": 80.0,
@@ -2525,7 +2840,8 @@
     "hp": 99.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 316
   },
   "swalot": {
     "atk": 140.0,
@@ -2533,7 +2849,8 @@
     "hp": 159.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 317
   },
   "carvanha": {
     "atk": 171.0,
@@ -2541,7 +2858,8 @@
     "hp": 39.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 318
   },
   "sharpedo": {
     "atk": 243.0,
@@ -2549,7 +2867,8 @@
     "hp": 83.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 319
   },
   "wailmer": {
     "atk": 136.0,
@@ -2557,7 +2876,8 @@
     "hp": 68.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 320
   },
   "wailord": {
     "atk": 175.0,
@@ -2565,7 +2885,8 @@
     "hp": 87.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 321
   },
   "numel": {
     "atk": 119.0,
@@ -2573,7 +2894,8 @@
     "hp": 82.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 322
   },
   "camerupt": {
     "atk": 194.0,
@@ -2581,7 +2903,8 @@
     "hp": 139.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 323
   },
   "torkoal": {
     "atk": 151.0,
@@ -2589,7 +2912,8 @@
     "hp": 234.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 324
   },
   "spoink": {
     "atk": 125.0,
@@ -2597,7 +2921,8 @@
     "hp": 145.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 325
   },
   "grumpig": {
     "atk": 171.0,
@@ -2605,7 +2930,8 @@
     "hp": 211.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 326
   },
   "spinda": {
     "atk": 116.0,
@@ -2613,7 +2939,8 @@
     "hp": 116.0,
     "wild": false,
     "task": true,
-    "raid": false
+    "raid": false,
+    "no": 327
   },
   "trapinch": {
     "atk": 162.0,
@@ -2621,7 +2948,8 @@
     "hp": 78.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 328
   },
   "vibrava": {
     "atk": 134.0,
@@ -2629,7 +2957,8 @@
     "hp": 99.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 329
   },
   "flygon": {
     "atk": 205.0,
@@ -2637,7 +2966,8 @@
     "hp": 168.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 330
   },
   "cacnea": {
     "atk": 156.0,
@@ -2645,7 +2975,8 @@
     "hp": 74.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 331
   },
   "cacturne": {
     "atk": 221.0,
@@ -2653,7 +2984,8 @@
     "hp": 115.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 332
   },
   "swablu": {
     "atk": 76.0,
@@ -2661,7 +2993,8 @@
     "hp": 139.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 333
   },
   "altaria": {
     "atk": 141.0,
@@ -2669,7 +3002,8 @@
     "hp": 208.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 334
   },
   "zangoose": {
     "atk": 222.0,
@@ -2677,7 +3011,8 @@
     "hp": 124.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 335
   },
   "seviper": {
     "atk": 196.0,
@@ -2685,7 +3020,8 @@
     "hp": 118.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 336
   },
   "lunatone": {
     "atk": 178.0,
@@ -2693,7 +3029,8 @@
     "hp": 163.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 337
   },
   "solrock": {
     "atk": 178.0,
@@ -2701,7 +3038,8 @@
     "hp": 163.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 338
   },
   "barboach": {
     "atk": 93.0,
@@ -2709,7 +3047,8 @@
     "hp": 83.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 339
   },
   "whiscash": {
     "atk": 151.0,
@@ -2717,7 +3056,8 @@
     "hp": 142.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 340
   },
   "corphish": {
     "atk": 141.0,
@@ -2725,7 +3065,8 @@
     "hp": 113.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 341
   },
   "crawdaunt": {
     "atk": 224.0,
@@ -2733,7 +3074,8 @@
     "hp": 156.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 342
   },
   "baltoy": {
     "atk": 77.0,
@@ -2741,7 +3083,8 @@
     "hp": 131.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 343
   },
   "claydol": {
     "atk": 140.0,
@@ -2749,7 +3092,8 @@
     "hp": 236.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 344
   },
   "lileep": {
     "atk": 105.0,
@@ -2757,7 +3101,8 @@
     "hp": 154.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 345
   },
   "cradily": {
     "atk": 152.0,
@@ -2765,7 +3110,8 @@
     "hp": 198.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 346
   },
   "anorith": {
     "atk": 176.0,
@@ -2773,7 +3119,8 @@
     "hp": 100.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 347
   },
   "armaldo": {
     "atk": 222.0,
@@ -2781,7 +3128,8 @@
     "hp": 183.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 348
   },
   "feebas": {
     "atk": 29.0,
@@ -2789,7 +3137,8 @@
     "hp": 102.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 349
   },
   "milotic": {
     "atk": 192.0,
@@ -2797,7 +3146,8 @@
     "hp": 242.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 350
   },
   "castform": {
     "atk": 139.0,
@@ -2805,7 +3155,8 @@
     "hp": 139.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 351
   },
   "kecleon": {
     "atk": 161.0,
@@ -2813,7 +3164,8 @@
     "hp": 212.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 352
   },
   "shuppet": {
     "atk": 138.0,
@@ -2821,7 +3173,8 @@
     "hp": 66.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 353
   },
   "banette": {
     "atk": 218.0,
@@ -2829,7 +3182,8 @@
     "hp": 127.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 354
   },
   "duskull": {
     "atk": 70.0,
@@ -2837,7 +3191,8 @@
     "hp": 162.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 355
   },
   "dusclops": {
     "atk": 124.0,
@@ -2845,7 +3200,8 @@
     "hp": 234.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 356
   },
   "tropius": {
     "atk": 136.0,
@@ -2853,7 +3209,8 @@
     "hp": 165.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 357
   },
   "chimecho": {
     "atk": 175.0,
@@ -2861,7 +3218,8 @@
     "hp": 174.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 358
   },
   "absol": {
     "atk": 246.0,
@@ -2869,7 +3227,8 @@
     "hp": 120.0,
     "wild": false,
     "task": true,
-    "raid": true
+    "raid": true,
+    "no": 359
   },
   "wynaut": {
     "atk": 41.0,
@@ -2877,7 +3236,8 @@
     "hp": 86.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 360
   },
   "snorunt": {
     "atk": 95.0,
@@ -2885,7 +3245,8 @@
     "hp": 95.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 361
   },
   "glalie": {
     "atk": 162.0,
@@ -2893,7 +3254,8 @@
     "hp": 162.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 362
   },
   "spheal": {
     "atk": 95.0,
@@ -2901,7 +3263,8 @@
     "hp": 90.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 363
   },
   "sealeo": {
     "atk": 137.0,
@@ -2909,7 +3272,8 @@
     "hp": 132.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 364
   },
   "walrein": {
     "atk": 182.0,
@@ -2917,7 +3281,8 @@
     "hp": 176.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 365
   },
   "clamperl": {
     "atk": 133.0,
@@ -2925,7 +3290,8 @@
     "hp": 149.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 366
   },
   "huntail": {
     "atk": 197.0,
@@ -2933,7 +3299,8 @@
     "hp": 194.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 367
   },
   "gorebyss": {
     "atk": 211.0,
@@ -2941,7 +3308,8 @@
     "hp": 194.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 368
   },
   "relicanth": {
     "atk": 162.0,
@@ -2949,7 +3317,8 @@
     "hp": 234.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 369
   },
   "luvdisc": {
     "atk": 81.0,
@@ -2957,7 +3326,8 @@
     "hp": 134.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 370
   },
   "bagon": {
     "atk": 134.0,
@@ -2965,7 +3335,8 @@
     "hp": 107.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 371
   },
   "shelgon": {
     "atk": 172.0,
@@ -2973,7 +3344,8 @@
     "hp": 179.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 372
   },
   "salamence": {
     "atk": 277.0,
@@ -2981,7 +3353,8 @@
     "hp": 168.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 373
   },
   "beldum": {
     "atk": 96.0,
@@ -2989,7 +3362,8 @@
     "hp": 141.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 374
   },
   "metang": {
     "atk": 138.0,
@@ -2997,7 +3371,8 @@
     "hp": 185.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 375
   },
   "metagross": {
     "atk": 257.0,
@@ -3005,7 +3380,8 @@
     "hp": 248.0,
     "wild": true,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 376
   },
   "regirock": {
     "atk": 179.0,
@@ -3013,7 +3389,8 @@
     "hp": 356.0,
     "wild": false,
     "task": false,
-    "raid": true
+    "raid": true,
+    "no": 377
   },
   "regice": {
     "atk": 179.0,
@@ -3021,7 +3398,8 @@
     "hp": 356.0,
     "wild": false,
     "task": false,
-    "raid": true
+    "raid": true,
+    "no": 378
   },
   "registeel": {
     "atk": 143.0,
@@ -3029,7 +3407,8 @@
     "hp": 285.0,
     "wild": false,
     "task": false,
-    "raid": true
+    "raid": true,
+    "no": 379
   },
   "latias": {
     "atk": 228.0,
@@ -3037,7 +3416,8 @@
     "hp": 268.0,
     "wild": false,
     "task": false,
-    "raid": true
+    "raid": true,
+    "no": 380
   },
   "latios": {
     "atk": 268.0,
@@ -3045,7 +3425,8 @@
     "hp": 228.0,
     "wild": false,
     "task": false,
-    "raid": true
+    "raid": true,
+    "no": 381
   },
   "kyogre": {
     "atk": 297.0,
@@ -3053,7 +3434,8 @@
     "hp": 276.0,
     "wild": false,
     "task": false,
-    "raid": true
+    "raid": true,
+    "no": 382
   },
   "groudon": {
     "atk": 297.0,
@@ -3061,7 +3443,8 @@
     "hp": 276.0,
     "wild": false,
     "task": false,
-    "raid": true
+    "raid": true,
+    "no": 383
   },
   "rayquaza": {
     "atk": 312.0,
@@ -3069,7 +3452,8 @@
     "hp": 187.0,
     "wild": false,
     "task": false,
-    "raid": true
+    "raid": true,
+    "no": 384
   },
   "jirachi": {
     "atk": 210.0,
@@ -3077,7 +3461,8 @@
     "hp": 210.0,
     "wild": false,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 385
   },
   "deoxys": {
     "atk": 345.0,
@@ -3085,6 +3470,7 @@
     "hp": 115.0,
     "wild": false,
     "task": false,
-    "raid": false
+    "raid": false,
+    "no": 386
   }
 }

@@ -11,6 +11,7 @@ logger.add(new logger.transports.Console, {
 var basestats = require("./data/basestat.json");
 var cpm = require("./data/cp_multipier.json");
 var alolan = require("./data/alolan.json");
+var no2name = require("./data/no2name.json");
 logger.level = 'debug';
 // Initialize Discord Bot
 var bot = new Discord.Client({
@@ -39,6 +40,10 @@ bot.on('message', function (user, userID, channelID, message, evt) {
         if (args.indexOf("alolan") !== -1) {
             stats = alolan;
         }
+        var checkNumber = Number(name);
+        if(checkNumber != NaN && checkNumber>=0 && checkNumber<= 386){
+            name = no2name[checkNumber];
+        }
         // Special Filters
         if(name==="nidoran"){
             if(args[1]===("f")){
@@ -61,7 +66,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
         }
         if (typeof(stats[name]) != "undefined") {
             var ivs = [];
-            var msg = "Possible 100iv CPs: \n```\n";
+            var msg = "Possible 100iv CPs for " + name.substring(0,1).toUpperCase() + name.substring(1) + ": \n```\n";
             var atk = stats[name]["atk"];
             var def = stats[name]["def"];
             var hp = stats[name]["hp"];
