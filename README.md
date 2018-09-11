@@ -1,4 +1,8 @@
 # Cheatsheet
+
+### basics
+* For wild encouter 100iv cp chart `!slowbro`  `!145`
+* For community day search bar search/trash string `!search chikorita` `!trash chikorita`
 ### misc
 * Everything is case INsensitive (The bot will toLowerCase() them all)
 * Raid / Research exclusive will only display possible encountered values 
