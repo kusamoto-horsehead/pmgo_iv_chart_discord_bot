@@ -1341,9 +1341,9 @@
     "no": 149
   },
   "mewtwo": {
-    "atk": 330.0,
-    "def": 212.0,
-    "hp": 200.0,
+    "atk": 300.0,
+    "def": 182.0,
+    "hp": 193.0,
     "wild": false,
     "task": false,
     "raid": true,
