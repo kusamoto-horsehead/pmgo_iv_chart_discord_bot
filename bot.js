@@ -24,7 +24,7 @@ bot.on('ready', function (evt) {
     logger.info(bot.username + ' - (' + bot.id + ')');
 });
 function cp(a,d,s,ia,id,is,lv){
-    var result = parseInt((a + 15) * Math.sqrt(d + 15) * Math.sqrt(s + 15) * Math.pow(cpm[lv], 2) * 0.1);
+    var result = parseInt((a + ia) * Math.sqrt(d + id) * Math.sqrt(s + is) * Math.pow(cpm[lv], 2) * 0.1);
     if(result<10){
         result = 10;
     }
@@ -142,7 +142,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     msg = msg + "Research Task: " + cp(atk, def, hp, 15, 15, 15, 15) + "\n";
                 }
                 if(stats[name]["raid"]===true){
-                    msg = msg + "Raid: " + cp(atk, def, hp, 20) + "\n";
+                    msg = msg + "Raid: " + cp(atk, def, hp, 15, 15, 15, 20) + "\n";
                     msg = msg + "Raid Weather Boosted: " + cp(atk, def, hp, 15, 15, 15, 25) + "\n";
                 }
                 msg = msg + "```\n";
