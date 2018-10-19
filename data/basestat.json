@@ -3470,7 +3470,187 @@
     "hp": 115.0,
     "wild": false,
     "task": false,
-    "raid": false,
+    "raid": true,
     "no": 386
+  },
+  "turtwig": {
+    "atk": 119.0,
+    "def": 115.0,
+    "hp": 110.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 387
+  },
+  "grotle": {
+    "atk": 157.0,
+    "def": 152.0,
+    "hp": 150.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 388
+  },
+  "chimchar": {
+    "atk": 113.0,
+    "def": 86.0,
+    "hp": 88.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 390
+  },
+  "monferno": {
+    "atk": 158.0,
+    "def": 105.0,
+    "hp": 128.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 391
+  },
+  "piplup": {
+    "atk": 112.0,
+    "def": 103.0,
+    "hp": 106.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 393
+  },
+  "prinplup": {
+    "atk": 150.0,
+    "def": 143.0,
+    "hp": 128.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 394
+  },
+  "starly": {
+    "atk": 101.0,
+    "def": 58.0,
+    "hp": 80.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 396
+  },
+  "staravia": {
+    "atk": 142.0,
+    "def": 99.0,
+    "hp": 110.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 397
+  },
+  "staraptor": {
+    "atk": 234.0,
+    "def": 145.0,
+    "hp": 170.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 398
+  },
+  "bidoof": {
+    "atk": 80.0,
+    "def": 73.0,
+    "hp": 118.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 399
+  },
+  "bibarel": {
+    "atk": 162.0,
+    "def": 119.0,
+    "hp": 158.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 400
+  },
+  "kricketot": {
+    "atk": 45.0,
+    "def": 74.0,
+    "hp": 74.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 401
+  },
+  "kricketune": {
+    "atk": 160.0,
+    "def": 100.0,
+    "hp": 154.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 402
+  },
+  "shinx": {
+    "atk": 117.0,
+    "def": 64.0,
+    "hp": 90.0,
+    "wild": false,
+    "task": false,
+    "raid": true,
+    "no": 403
+  },
+  "pachirisu": {
+    "atk": 94.0,
+    "def": 182.0,
+    "hp": 120.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 417
+  },
+  "buneary": {
+    "atk": 130.0,
+    "def": 111.0,
+    "hp": 110.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 427
+  },
+  "lopunny": {
+    "atk": 156.0,
+    "def": 200.0,
+    "hp": 130.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 428
+  },
+  "chatot": {
+    "atk": 183.0,
+    "def": 92.0,
+    "hp": 152.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 441
+  },
+  "riolu": {
+    "atk": 127.0,
+    "def": 78.0,
+    "hp": 80.0,
+    "wild": false,
+    "task": false,
+    "raid": true,
+    "no": 447
+  },
+  "carnivine": {
+    "atk": 187.0,
+    "def": 136.0,
+    "hp": 148.0,
+    "wild": true,
+    "task": false,
+    "raid": false,
+    "no": 455
   }
 }
